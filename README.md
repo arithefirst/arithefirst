@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dribbble.com/arithefirst.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="arithefirst.com" height="30" width="40" /></a>
+<a href="https://arithefirst.com" target="blank"><img align="center" src="https://arithefirst.com/images/pfp.png" alt="arithefirst.com" height="30" width="30" /></a>
 <a href="https://www.youtube.com/c/arithefirst_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="arithefirst_" height="30" width="40" /></a>
 </p>
 
@@ -17,4 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arithefirst&show_icons=true&locale=en" alt="arithefirst" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arithefirst&" alt="arithefirst" /></p>
-
