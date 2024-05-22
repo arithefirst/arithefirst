@@ -10,4 +10,4 @@
 </p>
 
 <h2 align="center">Stats</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arithefirst&show_icons=true&locale=en&theme=transparent&title_color=CDD6F4&text_color=CDD6F4&hide_border=true&icon_color=CBA6F7&hide_rank=true" alt="Stats" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arithefirst&theme=transparent" alt="Stats" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arithefirst&show_icons=true&locale=en&theme=transparent&title_color=CDD6F4&text_color=CDD6F4&hide_border=true&icon_color=CBA6F7&hide_rank=true" alt="Stats" /><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=arithefirst&hide_border=true&background=0D1117&ring=CBA6F7&fire=CBA6F7&dates=CDD6F4&currStreakLabel=CBA6F7&currStreakNum=CBA6F7&sideNums=CBA6F7&sideLabels=CBA6F7&hide_total_contributions=true" alt="GitHub Streak" /></a></p>
