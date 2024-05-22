@@ -10,4 +10,4 @@
 </p>
 
 <h2 align="center">Stats</h2>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arithefirst&show_icons=true&locale=en&theme=dark" alt="arithefirst" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arithefirst&theme=dark" alt="arithefirst" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arithefirst&show_icons=true&locale=en&theme=transparent" alt="arithefirst" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arithefirst&theme=transparent" alt="arithefirst" /></p>
