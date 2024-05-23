@@ -1,6 +1,6 @@
 <p align="center"> <img src="https://arithefirst.com/images/pfp-circle.png"> </p>
 <h1 align="center">Hi, I'm April!</h1>
-<h3 align="center">A transfemme programmer!</h3>
+<h3 align="center">a transfemme programmer</h3>
 
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
