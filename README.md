@@ -5,7 +5,7 @@
 <h2 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,bash,css,docker,git,html,nvim,mongodb,python,vscodium" />
+    <img src="https://skillicons.dev/icons?i=arch,bash,css,docker,git,html,neovim,mongodb,python,vscodium" />
   </a>
 </p>
 
