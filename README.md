@@ -11,7 +11,7 @@
 
 <h2 align="center">Stats</h2>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arithefirst&show_icons=true&locale=en&theme=transparent&title_color=CDD6F4&text_color=CDD6F4&hide_border=true&icon_color=CBA6F7&hide_rank=true&bg_color=0D1117" height="190" alt="Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=arithefirst&show_icons=true&locale=en&theme=transparent&title_color=CDD6F4&text_color=CDD6F4&hide_border=true&icon_color=CBA6F7&hide_rank=true&bg_color=0D1117&card_width=320" height="190" alt="Stats" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=arithefirst&hide_border=true&background=0D1117&ring=CBA6F7&fire=CBA6F7&dates=CDD6F4&currStreakLabel=CBA6F7&currStreakNum=CBA6F7&sideNums=CBA6F7&sideLabels=CBA6F7&hide_total_contributions=true&hide_longest_streak=true&card_width=150" height="190" alt="GitHub Streak"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arithefirst&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&title_color=cba6f7" height="190" alt="languages graph"  />
 </p>
