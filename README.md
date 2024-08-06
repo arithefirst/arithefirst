@@ -4,7 +4,7 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch" style="padding-right: 3px"> <img style="padding-right: 3px" height="48" src="https://raw.githubusercontent.com/arithefirst/arithefirst/main/bootstrap.png"> <img src="https://skillicons.dev/icons?i=css,docker,git,go"><br><img src="https://skillicons.dev/icons?i=html,javascript,jquery,neovim,mongodb,python,vscodium">
+  <img src="https://skillicons.dev/icons?i=arch"><img height="3" width="8" src="https://raw.githubusercontent.com/arithefirst/arithefirst/main/3px-spacer.png"><img height="48" src="https://raw.githubusercontent.com/arithefirst/arithefirst/main/bootstrap.png"><img height="3" width="8" src="https://raw.githubusercontent.com/arithefirst/arithefirst/main/3px-spacer.png"><img src="https://skillicons.dev/icons?i=css,docker,git,go"><br><img src="https://skillicons.dev/icons?i=html,javascript,jquery,neovim,mongodb,python,vscodium">
 </p>
 
 <h2 align="center">Stats</h2>
