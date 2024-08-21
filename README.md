@@ -4,13 +4,13 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bootstrap,css,docker,git,go,html">
+  <img src="https://skillicons.dev/icons?i=arch,bootstrap,css,docker,discordjs,git,go">
   <br>
-  <img src="https://skillicons.dev/icons?i=javascript,jquery,neovim,nodejs,mongodb,python,vscodium">
+  <img src="https://skillicons.dev/icons?i=html,javascript,jquery,neovim,nodejs,mongodb,python,vscodium">
 </p>
 
 <h2 align="center">Currently Learning:</h2>
-<p align="center"><img src="https://skillicons.dev/icons?i=threejs,svelte,react,discordjs"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=threejs,svelte,react"></p>
 
 <h2 align="center">Stats</h2>
 <p align="center">
