@@ -4,9 +4,9 @@
 
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bootstrap,css,docker,git,go,html" alt="Arch Linux, Bootstrap, CSS3, Docker, Git, Go, HTML5">
+  <img src="https://skillicons.dev/icons?i=arch,bootstrap,css,docker,git,go,html">
   <br>
-  <img src="https://skillicons.dev/icons?i=javascript,jquery,neovim,nodejs,mongodb,python,vscodium" alt="Javascript, Jquery, NodeJS, MongoDB, Python, VSCodium">
+  <img src="https://skillicons.dev/icons?i=javascript,jquery,neovim,nodejs,mongodb,python,vscodium">
 </p>
 
 <h2 align="center">Currently Learning:</h2>
