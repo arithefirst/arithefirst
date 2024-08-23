@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">Currently Learning:</h2>
-<p align="center"><img src="https://skillicons.dev/icons?i=threejs,svelte,react"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=figma,threejs,svelte,react"></p>
 
 <h2 align="center">Stats</h2>
 <p align="center">
