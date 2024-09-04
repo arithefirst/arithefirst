@@ -12,6 +12,9 @@
 <h2 align="center">IDEs and Editors:</h2>
 <p align="center"><img height=48 src="https://raw.githubusercontent.com/arithefirst/arithefirst/main/goland-skillicon.png"><img src="https://skillicons.dev/icons?i=pycharm,vscodium,webstorm"></p>
 
+<h2 align="center">Currently Learning:</h2>
+<p align="center"><img src="https://skillicons.dev/icons?i=solidjs,tailwind,vite"></p>
+
 <h2 align="center">Stats</h2>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=arithefirst&show_icons=true&locale=en&theme=transparent&title_color=CDD6F4&text_color=CDD6F4&border_color=45475a&icon_color=CBA6F7&hide_rank=true&bg_color=69696900&card_width=320" height="190" alt="Stats" />
