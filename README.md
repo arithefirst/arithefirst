@@ -13,7 +13,7 @@
 <p align="center"><img height=48 src="https://raw.githubusercontent.com/arithefirst/arithefirst/main/goland-skillicon.png"><img src="https://skillicons.dev/icons?i=pycharm,vscodium,webstorm"></p>
 
 <h2 align="center">Currently Learning:</h2>
-<p align="center"><img src="https://skillicons.dev/icons?i=svelte,tailwind,vite"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=astro,svelte,tailwind"></p>
 
 <h2 align="center">Stats</h2>
 <p align="center">
