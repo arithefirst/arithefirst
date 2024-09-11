@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm April!</h1>
 <h3 align="center">A transfemme programmer</h3>
 
-<h2 align="center">Languages and Frameworks:</h2>
+<h2 align="center">Languages, Frameworks, and Tools:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bootstrap,css,docker,discordjs,git,go">
+  <img src="https://skillicons.dev/icons?i=arch,bootstrap,bun,css,docker,discordjs,git,go">
   <br>
   <img src="https://skillicons.dev/icons?i=html,javascript,jquery,neovim,nodejs,mongodb,python,threejs">
 </p>
