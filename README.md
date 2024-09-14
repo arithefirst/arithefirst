@@ -6,14 +6,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,bootstrap,bun,css,docker,discordjs,git,go">
   <br>
-  <img src="https://skillicons.dev/icons?i=html,javascript,jquery,neovim,nodejs,mongodb,python,threejs">
+  <img src="https://skillicons.dev/icons?i=html,javascript,jquery,neovim,nodejs,mongodb,python,svelte,threejs">
 </p>
 
 <h2 align="center">IDEs and Editors:</h2>
 <p align="center"><img height=48 src="https://raw.githubusercontent.com/arithefirst/arithefirst/main/goland-skillicon.png"><img src="https://skillicons.dev/icons?i=pycharm,vscodium,webstorm"></p>
 
 <h2 align="center">Currently Learning:</h2>
-<p align="center"><img src="https://skillicons.dev/icons?i=astro,svelte,tailwind"></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=astro,tailwind"></p>
 
 <h2 align="center">Stats</h2>
 <p align="center">
