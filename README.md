@@ -4,9 +4,9 @@
 
 <h2 align="center">Languages, Frameworks, and Tools:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bootstrap,bun,css,docker,discordjs,git,go,html">
+  <img src="https://skillicons.dev/icons?i=arch,bun,css,docker,discordjs,git,go,html,javascript">
   <br>
-  <img src="https://skillicons.dev/icons?i=javascript,jquery,neovim,nodejs,mongodb,python,svelte,tailwind,threejs">
+  <img src="https://skillicons.dev/icons?i=jquery,neovim,nodejs,mongodb,python,svelte,tailwind,threejs,vercel,vite">
 </p>
 
 <h2 align="center">IDEs and Editors:</h2>
