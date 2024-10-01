@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://arithefirst.com/images/pfp-circle.png"> </p>
+<p align="center"> <img src="https://arithefirst.com/pfp-circle.png"> </p>
 <h1 align="center">Hi, I'm April!</h1>
 <h3 align="center">A transfemme programmer</h3>
 
