@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arch,bun,css,docker,discordjs,git,go,html,javascript,jquery">
   <br>
-  <img src="https://skillicons.dev/icons?i=neovim,nodejs,mongodb,python,redis,svelte,tailwind,threejs,vercel,vite">
+  <img src="https://skillicons.dev/icons?i=neovim,nodejs,mongodb,postgres,python,redis,svelte,tailwind,threejs,vercel,vite">
 </p>
 
 <h2 align="center">IDEs and Editors:</h2>
