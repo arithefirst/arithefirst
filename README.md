@@ -4,13 +4,13 @@
 
 <h2 align="center">Languages, Frameworks, and Tools:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,bun,css,docker,discordjs,git,go,html,javascript,jquery,neovim">
+  <img src="https://skillicons.dev/icons?i=arch,astro,bun,css,docker,discordjs,git,go,html,javascript,jquery">
   <br>
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,python,redis,svelte,tailwind,threejs,ts,vercel,vite">
 </p>
 
 <h2 align="center">IDEs and Editors:</h2>
-<p align="center"><img height=48 src="https://raw.githubusercontent.com/arithefirst/arithefirst/main/goland-skillicon.png"><img src="https://skillicons.dev/icons?i=pycharm,vscodium,webstorm"></p>
+<p align="center"><img height=48 src="https://raw.githubusercontent.com/arithefirst/arithefirst/main/goland-skillicon.png"><img src="https://skillicons.dev/icons?i=neovim,pycharm,vscodium,webstorm"></p>
 
 <h2 align="center">Stats</h2>
 <p align="center">
