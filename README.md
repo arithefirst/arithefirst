@@ -4,8 +4,7 @@
 
 <h2 align="center">Languages, Frameworks, and Tools:</h2>
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,astro,bun,css,daisyui,docker,discordjs,git,go,html,javascript">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery,nodejs,mongodb,postgres,python,svelte,tailwind,threejs,typescript,vercel,vite">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,astro,bun,css,daisyui,docker,discordjs,git,go,html,javascript,jquery,nodejs,mongodb,postgres,python,svelte,tailwind,threejs,typescript,vercel,vite&perline=11">
 </p>
 
 <h2 align="center">IDEs and Editors:</h2>
