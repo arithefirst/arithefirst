@@ -1,14 +1,37 @@
-<p align="center"> <img src="https://arithefirst.com/images/pfp-circle.png"> </p>
-<h1 align="center">Hi, I'm April!</h1>
-<h3 align="center">A Fullstack Developer</h3>
+<!--
+  Hi there!
+-->
 
-<h2 align="center">Languages, Frameworks, and Tools:</h2>
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=arch,astro,bun,css,daisyui,docker,discordjs,git,go,html,javascript,jquery,nodejs,mongodb,postgres,python,svelte,tailwind,threejs,typescript,vercel,vite&perline=11">
-</p>
+### Hi, I'm Ari 👋
 
-<h2 align="center">IDEs and Editors:</h2>
-<p align="center"><img src="https://go-skill-icons.vercel.app/api/icons?i=goland,neovim,pycharm,vscodium,webstorm"></p>
+I'm a Software Developer with a passion for creating modern web applications.
+
+-   🔭 I’m currently working on personal projects with Svelte and SvelteKit.
+-   🌱 I’m always learning new technologies and refining my skills.
+-   💬 Ask me about web development, frontend frameworks, and backend technologies.
+
+### Skills
+
+Here are some of the technologies and tools I work with:
+
+-   **Proficient:**
+    -   Svelte
+    -   SvelteKit
+    -   Typescript
+    -   Javascript
+    -   CSS
+-   **Experienced:**
+    -   Golang
+    -   SQL
+
+### Connect with me
+
+-   [Website](https://www.arithefirst.com) (primary contact)
+-   [Discord](https://discord.com/users/613358761901424652)
+-   [Email](mailto:ari@arithefirst.com)
+
+
+
 
 <h2 align="center">Stats</h2>
 <p align="center">
