@@ -9,18 +9,18 @@ But most people just call me Ari.
 
 | Site                                                                                                                                               | URL                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| 🌐                                                                                                                                                 | https://www.arithefirst.com                  |
+| <img src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" alt="globe icon" width="16px">                       | https://www.arithefirst.com                  |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1200px-Bluesky_Logo.svg.png" alt="bluesky logo" width="16px"> | https://bsky.app/profile/arithefirst.com     |
 | <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/01/remove-background-project-1.png" alt="discord logo" width="16px">     | https://discord.com/users/613358761901424652 |
 
 ## My Stacks
 
-|                    | **Svelte**                                      | **React**                        |
-| ------------------ | ----------------------------------------------- | -------------------------------- |
-| **Meta Framework** | SvelteKit                                       | NextJS                           |
-| **Styles**         | TailwindCSS                                     | TailwindCSS                      |
-| **Components**     | [Shadcn-Svelte](https://www.shadcn-svelte.com/) | [Shadcn](https://ui.shadcn.com/) |
-| **ORM**            | Drizzle                                         | Drizzle                          |
+|                    | **Svelte**                                      | **React**                               |
+| ------------------ | ----------------------------------------------- | --------------------------------------- |
+| **Meta Framework** | [SvelteKit](http://svelte.dev/docs/kit)         | [NextJS](https://nextjs.org/)           |
+| **Styles**         | [TailwindCSS](https://tailwindcss.com/)         | [TailwindCSS](https://tailwindcss.com/) |
+| **Components**     | [Shadcn-Svelte](https://www.shadcn-svelte.com/) | [Shadcn](https://ui.shadcn.com/)        |
+| **ORM**            | [Drizzle](https://orm.drizzle.team/)            | [Drizzle](https://orm.drizzle.team/)    |
 
 ## My Git Stats
 
