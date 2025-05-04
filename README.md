@@ -13,14 +13,19 @@ But most people just call me Ari.
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1200px-Bluesky_Logo.svg.png" alt="bluesky logo" width="16px"> | https://bsky.app/profile/arithefirst.com     |
 | <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/01/remove-background-project-1.png" alt="discord logo" width="16px">     | https://discord.com/users/613358761901424652 |
 
-## My Stacks
-
-|                    | **Svelte**                                      | **React**                               |
-| ------------------ | ----------------------------------------------- | --------------------------------------- |
-| **Meta Framework** | [SvelteKit](http://svelte.dev/docs/kit)         | [NextJS](https://nextjs.org/)           |
-| **Styles**         | [TailwindCSS](https://tailwindcss.com/)         | [TailwindCSS](https://tailwindcss.com/) |
-| **Components**     | [Shadcn-Svelte](https://www.shadcn-svelte.com/) | [Shadcn](https://ui.shadcn.com/)        |
-| **ORM**            | [Drizzle](https://orm.drizzle.team/)            | [Drizzle](https://orm.drizzle.team/)    |
+## My Favourite Technologies
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
+[![BetterAuth](https://img.shields.io/badge/BetterAuth-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white)](https://betterauth.dev/)
+[![Clerk](https://img.shields.io/badge/Clerk-%23615AEF.svg?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com/)<br>
+[![ESLint](https://img.shields.io/badge/ESLint-%234A154B.svg?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+[![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)<br>
+[![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
+[![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)<br>
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![VSCodium](https://img.shields.io/badge/VSCodium-%232C6FC1.svg?style=for-the-badge&logo=vscodium&logoColor=white)](https://vscodium.com/)
 
 ## My Git Stats
 
