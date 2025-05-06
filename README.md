@@ -2,15 +2,16 @@
 
 But most people just call me Ari.
 
-> [!CAUTION] > **VIBE CODERS DNI!! YOU ARE NOT REAL PROGRAMMERS, STOP PRETENDING YOU ARE.**<br> **HOMOPHOBES, TRANSPHOBES, RACISTS, SEXISTS, AND SIMILAR ARE ALSO NOT WELCOME WITH ME.**
+> [!CAUTION]
+> **VIBE CODERS DNI!! YOU ARE NOT REAL PROGRAMMERS, STOP PRETENDING YOU ARE.**<br> **HOMOPHOBES, TRANSPHOBES, RACISTS, SEXISTS, AND SIMILAR ARE ALSO NOT WELCOME WITH ME.**
 
 ## Find Me
 
-| Site                                                                                                                                                   | URL                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| <div style="display: flex; justify-content: center; align-items: center; height: 100%;"> <img src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" alt="globe icon" width="16px"> </div> | https://www.arithefirst.com                  |
-| <div style="display: flex; justify-content: center; align-items: center; height: 100%;"> <img src="https://cdn.simpleicons.org/bluesky" alt="bluesky logo" width="16px"> </div>                                                                       | https://bsky.app/profile/arithefirst.com     |
-| <div style="display: flex; justify-content: center; align-items: center; height: 100%;"> <img src="https://cdn.simpleicons.org/discord" alt="discord logo" width="16px"> </div>                                                                       | https://discord.com/users/613358761901424652 |
+| Site                                                                                                                                               | URL                                          |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| <div align="center"><img src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" alt="globe icon" width="16px"></div> | https://www.arithefirst.com                  |
+| <div align="center"><img src="https://cdn.simpleicons.org/bluesky" alt="bluesky logo" width="16px"></div> | https://bsky.app/profile/arithefirst.com     |
+| <div align="center"><img src="https://cdn.simpleicons.org/discord" alt="discord logo" width="16px"></div>     | https://discord.com/users/613358761901424652 |
 
 ## My Favourite Technologies
 
