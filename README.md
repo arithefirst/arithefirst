@@ -15,16 +15,17 @@ But most people just call me Ari.
 ## My Favourite Technologies
 
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
-[![BetterAuth](https://img.shields.io/badge/BetterAuth-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white)](https://betterauth.dev/)
-[![Clerk](https://img.shields.io/badge/Clerk-%23615AEF.svg?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com/)<br>
-[![ESLint](https://img.shields.io/badge/ESLint-%234A154B.svg?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)
+[![BetterAuth](https://img.shields.io/badge/BetterAuth-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white)](https://www.better-auth.com/)
+[![Clerk](https://img.shields.io/badge/Clerk-%23615AEF.svg?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com/)
+[![ESLint](https://img.shields.io/badge/ESLint-%234A154B.svg?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/)<br>
 [![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)<br>
+[![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Prettier](https://img.shields.io/badge/Prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Svelte](https://img.shields.io/badge/Svelte-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/)<br>
-[![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://kit.svelte.dev/)
+[![SvelteKit](https://img.shields.io/badge/SvelteKit-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=white)](https://svelte.dev/docs/kit/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%232F74C0.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![VSCodium](https://img.shields.io/badge/VSCodium-%232C6FC1.svg?style=for-the-badge&logo=vscodium&logoColor=white)](https://vscodium.com/)
 
 ## My Git Stats
