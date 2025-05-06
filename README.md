@@ -2,18 +2,18 @@
 
 But most people just call me Ari.
 
-> [!CAUTION]
-> **VIBE CODERS DNI!! YOU ARE NOT REAL PROGRAMMERS, STOP PRETENDING YOU ARE.**<br> **HOMOPHOBES, TRANSPHOBES, RACISTS, SEXISTS, AND SIMILAR ARE ALSO NOT WELCOME WITH ME.**
+> [!CAUTION] > **VIBE CODERS DNI!! YOU ARE NOT REAL PROGRAMMERS, STOP PRETENDING YOU ARE.**<br> **HOMOPHOBES, TRANSPHOBES, RACISTS, SEXISTS, AND SIMILAR ARE ALSO NOT WELCOME WITH ME.**
 
 ## Find Me
 
-| Site                                                                                                                                               | URL                                          |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| <img src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" alt="globe icon" width="16px">                       | https://www.arithefirst.com                  |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1200px-Bluesky_Logo.svg.png" alt="bluesky logo" width="16px"> | https://bsky.app/profile/arithefirst.com     |
-| <img src="https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/01/remove-background-project-1.png" alt="discord logo" width="16px">     | https://discord.com/users/613358761901424652 |
+| Site                                                                                                                                                   | URL                                          |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| <div style="display: flex; justify-content: center; align-items: center; height: 100%;"> <img src="https://icons.veryicon.com/png/o/miscellaneous/base-icon-library-1/internet-54.png" alt="globe icon" width="16px"> </div> | https://www.arithefirst.com                  |
+| <div style="display: flex; justify-content: center; align-items: center; height: 100%;"> <img src="https://cdn.simpleicons.org/bluesky" alt="bluesky logo" width="16px"> </div>                                                                       | https://bsky.app/profile/arithefirst.com     |
+| <div style="display: flex; justify-content: center; align-items: center; height: 100%;"> <img src="https://cdn.simpleicons.org/discord" alt="discord logo" width="16px"> </div>                                                                       | https://discord.com/users/613358761901424652 |
 
 ## My Favourite Technologies
+
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
 [![BetterAuth](https://img.shields.io/badge/BetterAuth-%23000000.svg?style=for-the-badge&logo=auth0&logoColor=white)](https://betterauth.dev/)
 [![Clerk](https://img.shields.io/badge/Clerk-%23615AEF.svg?style=for-the-badge&logo=clerk&logoColor=white)](https://clerk.com/)<br>
